@@ -1,0 +1,16 @@
+.container__nenu-title {
+    color: #fff;
+}
+
+.container__nenu-title > h1 {
+    margin: 15px 0;
+    font-size: 135px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.container__nenu-title > hr {
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
